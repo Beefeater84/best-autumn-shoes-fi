@@ -44,6 +44,9 @@ For content-heavy components, use the `prose` classes:
 - TypeScript
 - AWS Amplify (hosting for static files, SSR disabled)
 - [Supabase](https://supabase.com/docs)
+- [Feature-Sliced Design](https://feature-sliced.design/docs/getting-started/introduction)
+- Supabase Local delelopment setup with [Supabase CLI](https://supabase.com/docs/guides/local-development)
+- [Axios](https://axios-http.com/docs/intro)
 - [OpenAI API](https://platform.openai.com/docs/api-reference)
 - [React Router v6](https://reactrouter.com/en/main)
 - [Tailwind CSS](https://tailwindcss.com/docs)
